@@ -14,7 +14,7 @@ library(stringr)
 
 ##### A. Data Import #####
 # This sets the working directory. Please change as needed
-setwd("C:/Users/henry/Dropbox/Research/Jaffee Lab/J2177/Sequencing")
+setwd()
 
 # Setting the data input directory
 Dirwd <- getwd()
