@@ -15,7 +15,7 @@ Patient_ID <- '01'
 
 ##### A. Loading Data #####
 # Set the working directory. Change as needed
-setwd("C:/Users/henry/Dropbox/Research/Jaffee Lab/J2177/Sequencing")
+setwd()
 
 # Setting input and output directories
 Dirwd <- getwd()
